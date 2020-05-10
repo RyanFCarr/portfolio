@@ -1,0 +1,26 @@
+
+
+
+/* Layout */
+    .my-container {
+        background-color: orange;
+    }
+
+/* Header */
+    .my-header {
+        background-color: white;
+    }
+
+    .my-name {
+        color: teal;
+    }
+
+/* Navigation */
+    .my-navigation {
+       color: black;
+    }
+
+/* Footer */
+    .my-footer {
+        background-color: rgb(85, 123, 148);
+    }
