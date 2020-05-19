@@ -3,5 +3,5 @@ bootstrap. I feel this is a very true statement and I hope
 that I have utilized the knowledge gained by showing a few minor pages.
 
 Ryan F. Carr
-Charlotte, NC
-Full Stack Student 2020
+UNC(Charlotte)
+FullStack Softare Development
