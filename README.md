@@ -1,9 +1,9 @@
-# Portfoilio
-
+# Portfolio
 A portfolio app which showcases current projects and events related to my work.
 
-## Author
+![portfolio](https://user-images.githubusercontent.com/61035701/82515576-89023400-9ae6-11ea-9c53-75ce998b884d.jpg)
 
+## Author
 * **Ryan Carr** - [RyanFCarr](https://github.com/RyanFCarr)
 
 ## Technologies
